@@ -5,45 +5,45 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python" />
   <img src="https://img.shields.io/badge/Status-Learning%20in%20Progress-yellow?logo=bookstack" />
-  <img src="https://img.shields.io/badge/Notebooks-Jupyter-orange?logo=jupyter" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebooks-orange?logo=jupyter" />
   <img src="https://img.shields.io/badge/License-MIT-green" />
 </p>
 
 Welcome to my **interactive, code-first learning journey** through
 💡 *“An Introduction to Statistical Learning with Applications in Python (ISLP)”*
-by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani & Jonathan Taylor.
+by James, Witten, Hastie, Tibshirani & Taylor.
 
-This repository is designed to be:
+This repository aims to be a:
 
-* 🌱 A **learning diary**
-* 🧭 A **study roadmap**
-* 📘 A **concept reference**
-* 🧪 A **lab playground**
-* 🚀 A **portfolio-ready ML showcase**
+* 🌱 **Learning diary and roadmap**
+* 🧠 **Statistical + ML intuition builder**
+* 💻 **Hands-on code lab & exercise hub**
+* 📝 **Clean, structured portfolio for ML interviews**
+* 📚 **Solid foundation for advanced ML & deep learning**
 
 ---
 
-# ✨ What This Repository Contains
+# ✨ What’s Inside?
 
-### 📘 **1. Concise Chapter Notes**
+### 📘 **1. Chapter Notes (My Own Words)**
 
-My own explanations, visual summaries, formulas, diagrams.
+Short, clear summaries with diagrams and intuition — *not copied from the book*.
 
-### 🧪 **2. Recreated Labs (Python)**
+### 🧪 **2. Recreated Labs**
 
-Every figure, plot, and model from the book — rewritten, re-explained.
+All plots, models, and examples from the ISLP Python edition re-written in my style.
 
-### 📝 **3. Solved Exercises**
+### 📝 **3. Applied Exercise Solutions**
 
-Full-code solutions + reasoning + visualizations.
+Code + reasoning + visualization → deeper understanding.
 
-### 📈 **4. Mini-Projects After Every Chapter**
+### 📈 **4. Mini-Projects After Each Chapter**
 
-Applying concepts on real-world datasets to cement understanding.
+Real datasets, real workflows, ML-ready code.
 
-### 📦 **5. A Clean, Reproducible Project Structure**
+### 🔍 **5. Clean, Reproducible Repository Structure**
 
-Easy to clone, run, and extend.
+Easy to run, extend, and share.
 
 ---
 
@@ -57,8 +57,8 @@ Easy to clone, run, and extend.
 | **4**   | Classification          |   –   |   –  |     –     |  ⬜ Not Started |
 | **5**   | Resampling Methods      |   –   |   –  |     –     |  ⬜ Not Started |
 | **6**   | Regularization          |   –   |   –  |     –     |  ⬜ Not Started |
-| **7**   | Non-linear Models       |   –   |   –  |     –     |  ⬜ Not Started |
-| **8**   | Trees & Random Forests  |   –   |   –  |     –     |  ⬜ Not Started |
+| **7**   | Nonlinear Models        |   –   |   –  |     –     |  ⬜ Not Started |
+| **8**   | Tree-Based Methods      |   –   |   –  |     –     |  ⬜ Not Started |
 | **9**   | Support Vector Machines |   –   |   –  |     –     |  ⬜ Not Started |
 | **10**  | Deep Learning           |   –   |   –  |     –     |  ⬜ Not Started |
 | **11**  | Survival Analysis       |   –   |   –  |     –     |  ⬜ Not Started |
@@ -66,35 +66,57 @@ Easy to clone, run, and extend.
 
 ---
 
-# 🎯 Learning Approach
-
-My personal system for mastering ISLP:
+# 🎯 My Learning Strategy
 
 ### 🧠 **1. Read → Understand → Summarize**
 
-Short, concept-driven notes
-(Fewer words, more intuition.)
+I convert complex definitions and formulas into simple language and diagrams.
 
-### 💻 **2. Reproduce → Re-Explain Labs**
+### 💻 **2. Recreate Labs**
 
-Rewrite every plot and model in my own style.
+Every figure & model is re-produced with:
 
-### 🧮 **3. Solve End-of-Chapter Exercises**
+* clean code
+* extra comments
+* additional visualizations
 
-Understanding comes from *doing*, not reading.
+### 🧪 **3. Solve Exercises**
 
-### 📈 **4. Build Mini-Projects After Each Chapter**
+End-of-chapter problems written clearly and explained step-by-step.
 
-Example:
+### 📈 **4. Mini-Projects After Every Chapter**
 
-* Linear Regression → House Price Model
-* Classification → Iris/Heart Disease Classifier
-* Trees → Loan Default Predictor
-* Unsupervised → Customer Segmentation
+To bridge the gap between **theory → real ML work**.
 
-### 🧩 **5. Build a Final Capstone**
+### 🎓 **5. Build Capstone Projects**
 
-A polished ML project using ISLP concepts.
+FSDS-ready ML pipelines using ISLP concepts.
+
+---
+
+# 🚀 Mini-Projects (Growing List)
+
+### 🧩 After Chapter 2: Statistical Learning
+
+* Bias–variance simulation
+* Polynomial flexibility visualizer
+
+### 🏠 After Chapter 3: Linear Regression
+
+* Delhi House Price Regression
+* Car Mileage Prediction
+
+### ❤️ After Chapter 4: Classification
+
+* Heart Disease Classifier
+* Titanic Survival Predictor
+
+### 🌳 After Chapter 8: Tree Methods
+
+* Loan Default Random Forest
+* Customer Churn Decision Tree
+
+(More will be added as I progress.)
 
 ---
 
@@ -113,7 +135,7 @@ cd An_Introduction_to_Statistical_Learning_with_Applications_in_Python
 pip install -r requirements.txt
 ```
 
-### Start Jupyter Lab
+### Launch Jupyter Lab
 
 ```bash
 jupyter lab
@@ -127,9 +149,9 @@ jupyter lab
 📦 ISLP
  ┣ 📂 data/          # Datasets used for labs & exercises
  ┣ 📂 notes/         # Chapter summaries (Markdown)
- ┣ 📂 labs/          # Reproduced labs (Jupyter Notebooks)
+ ┣ 📂 labs/          # Recreated labs (Jupyter Notebooks)
  ┣ 📂 exercises/     # Solutions to chapter exercises
- ┣ 📂 projects/      # Mini-projects I build after each chapter
+ ┣ 📂 projects/      # Mini-projects after each chapter
  ┣ 📂 images/        # Saved figures & diagrams
  ┣ 📜 requirements.txt
  ┣ 📜 LICENSE
@@ -138,52 +160,17 @@ jupyter lab
 
 ---
 
-# 🚀 Mini-Projects (Growing List)
-
-Each chapter produces one real-world project:
-
-### 🧩 **Chapter 2 – Statistical Learning**
-
-* Train/Test split demo
-* Bias–variance tradeoff visualization
-* Model flexibility experiment
-
-### 🏠 **Chapter 3 – Linear Regression**
-
-* Predict Delhi house prices
-* Salary prediction model
-* Car mileage prediction
-
-### 🏥 **Chapter 4 – Classification**
-
-* Heart disease prediction
-* Titanic survival classifier
-
-…and many more as I progress.
-
----
-
-# 🌟 Goals of This Learning Journey
-
-* Build **strong statistical foundations**
-* Get comfortable turning math → code → insight
-* Prepare for **machine learning interviews**
-* Create a **portfolio** showcasing structured ML thinking
-* Learn to build **clean, reproducible ML workflows**
-
----
-
 # 🤝 Contributing
 
-If you spot issues, want to suggest improvements, or add solutions — feel free to open a PR or issue.
+Suggestions, improvements, or pull requests are always welcome!
+This repo will evolve as my understanding deepens.
 
 ---
 
 # 📜 Credits
 
-Based on the textbook:
-**“An Introduction to Statistical Learning with Applications in Python”**
-by James, Witten, Hastie, Tibshirani & Taylor.
+Based on
+***“An Introduction to Statistical Learning with Applications in Python”***
+by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani & Jonathan Taylor.
 
 ---
-
