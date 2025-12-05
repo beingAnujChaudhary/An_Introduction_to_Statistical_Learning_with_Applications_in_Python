@@ -94,7 +94,7 @@ FSDS-ready ML pipelines using ISLP concepts.
 
 ---
 
-# 🚀 Mini-Projects (Growing List)
+<!-- # 🚀 Mini-Projects (Growing List)
 
 ### 🧩 After Chapter 2: Statistical Learning
 
@@ -118,7 +118,7 @@ FSDS-ready ML pipelines using ISLP concepts.
 
 (More will be added as I progress.)
 
----
+--- -->
 
 # 🛠️ Installation & Usage
 
