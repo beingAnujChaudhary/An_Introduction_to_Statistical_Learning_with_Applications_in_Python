@@ -51,12 +51,12 @@ Easy to run, extend, and share.
 
 | Chapter | Topic                   | Notes | Labs | Exercises |     Status     |
 | ------- | ----------------------- | :---: | :--: | :-------: | :------------: |
-| **1**   | Introduction            |   ✔️  |   –  |     –     |   ✅ Completed  |
-| **2**   | Statistical Learning    |   ✔️  |  ✔️  |     ✔️    | 🚧 In Progress |
-| **3**   | Linear Regression       |   –   |   –  |     –     |  ⬜ Not Started |
-| **4**   | Classification          |   –   |   –  |     –     |  ⬜ Not Started |
-| **5**   | Resampling Methods      |   –   |   –  |     –     |  ⬜ Not Started |
-| **6**   | Regularization          |   –   |   –  |     –     |  ⬜ Not Started |
+| **1**   | Introduction            |   ✔️  |   –  |     –     |  ✅ Completed  |
+| **2**   | Statistical Learning    |   ✔️  |  ✔️  |     ✔️    |  ✅ Completed |
+| **3**   | Linear Regression       |   –   |   –  |     –     |  ✅ Completed |
+| **4**   | Classification          |   –   |   –  |     –     |  ✅ Completed |
+| **5**   | Resampling Methods      |   –   |   –  |     –     |  ✅ Completed |
+| **6**   | Regularization          |   –   |   –  |     –     | 🚧 In Progress |
 | **7**   | Nonlinear Models        |   –   |   –  |     –     |  ⬜ Not Started |
 | **8**   | Tree-Based Methods      |   –   |   –  |     –     |  ⬜ Not Started |
 | **9**   | Support Vector Machines |   –   |   –  |     –     |  ⬜ Not Started |
